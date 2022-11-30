@@ -1,6 +1,6 @@
 # flowspace
 
-a social network.
+ignore all the excessive forks, i just like this persons stuff :)
 
 ### badges
 
